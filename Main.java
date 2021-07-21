@@ -1,8 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
-        Model model = new Model();
-        model.Process();
+        View view = new View();
+        view.View();
     }
 }
 
